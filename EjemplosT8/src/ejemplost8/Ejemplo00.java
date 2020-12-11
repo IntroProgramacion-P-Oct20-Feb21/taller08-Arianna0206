@@ -28,7 +28,7 @@ public class Ejemplo00 {
                     
         }
         
-        System.out.printf("Valor de la sumatoria %.4f\n", suma);
+        System.out.printf("Valor de la sumatoria %.4f\n", suma);   
     }
     
 }
